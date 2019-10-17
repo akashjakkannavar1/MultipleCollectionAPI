@@ -1,0 +1,16 @@
+﻿{
+  
+  "profiles": {
+    "Kestral": {
+      "commandName": "Project",
+      "launchUrl": "api/multipleDbApi",
+      "environmentVariables": {
+        "SERVICE_PORT": "8009",
+        "DATABASE_NAME": "SampleEmployeeDb",
+        "CONNECTION_STRING": "mongodb://localhost:27017",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:8009"
+    }
+  }
+}

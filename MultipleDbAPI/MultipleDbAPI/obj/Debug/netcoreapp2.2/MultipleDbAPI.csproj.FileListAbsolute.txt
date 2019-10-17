@@ -1,0 +1,14 @@
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\bin\Debug\netcoreapp2.2\MultipleDbAPI.deps.json
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\bin\Debug\netcoreapp2.2\MultipleDbAPI.runtimeconfig.json
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\bin\Debug\netcoreapp2.2\MultipleDbAPI.runtimeconfig.dev.json
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\bin\Debug\netcoreapp2.2\MultipleDbAPI.dll
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.csprojAssemblyReference.cache
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.RazorAssemblyInfo.cache
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.RazorAssemblyInfo.cs
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.AssemblyInfoInputs.cache
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.AssemblyInfo.cs
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.RazorTargetAssemblyInfo.cache
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\bin\Debug\netcoreapp2.2\MultipleDbAPI.pdb
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.dll
+D:\WebAPIs\MultipleDbAPI\MultipleDbAPI\obj\Debug\netcoreapp2.2\MultipleDbAPI.pdb
